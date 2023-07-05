@@ -1,0 +1,45 @@
+body {
+    background-color: #333;
+}
+
+.type {
+    margin-top: 100Px;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}
+
+.carousel {
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+    box-shadow: 1em -0 .4em black;
+    box-shadow: -1em 0 .4em black;
+    ;
+}
+
+figure-img {
+    width: 500px;
+    height: 300px;
+}
+
+figure {
+    box-shadow: -1em 0em #333;
+    position: absolute;
+    left: 30px;
+}
+
+.img1 {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1255px;
+}
+
+footer {
+    margin-top: 120px;
+}
